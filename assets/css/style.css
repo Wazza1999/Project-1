@@ -1,5 +1,7 @@
+/*Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
 /* Asterisk wildcard selector to override default styles added by the browser */
-/* Header */
 * {
     padding: 0;
     margin: 0;
@@ -13,8 +15,9 @@ body {
     flex-direction: column;
     /* Generic project styles*/
     color: #3a3a3a;
+    font-family: 'Alfa Slab One', sans-serif;
 }
-
+/* Header */
 header {
     background-color: lightcoral;
 }
