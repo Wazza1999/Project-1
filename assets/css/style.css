@@ -1,5 +1,5 @@
 /*Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
@@ -15,7 +15,7 @@ body {
     flex-direction: column;
     /* Generic project styles*/
     color: #3a3a3a;
-    font-family: 'Alfa Slab One', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 /* Header */
@@ -38,6 +38,16 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#menu>li {
+    margin-bottom: 1em;
 }
 
 /* Main content */
