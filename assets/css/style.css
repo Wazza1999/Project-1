@@ -67,9 +67,9 @@ header a {
 
 /* Navbar styles with dropdown toggle */
 nav {
-    position: fixed;
+    position: absolute;
     background-color: lightgrey;
-    border: black;
+    border: 1px black;
     width: 100%;
     left: 0;
     padding: 0 1rem;
