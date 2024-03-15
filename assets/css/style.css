@@ -108,17 +108,18 @@ main {
 
 .offerbox {
     background-color: rgba(0, 0, 0, 0.7);
-    font-size: 180%;
+    font-size: fit-content;
     color: red;
     position: absolute;
-    bottom: 200px;
-    width: 80%;
+    bottom: 700px;
+    width: 50%;
     height: 100px;
-    padding-top: 40px;
+    padding-top: 30px;
     padding-left: 10px;
     border: solid;
     font-style: bold;
     text-align: center;
+    
 
 }
 
@@ -138,6 +139,33 @@ main {
 #cover-text>h2,
 #cover-text>h3 {
     color: #ffffff;
+}
+
+/*reasons section*/
+#reasons {
+    width:90%;
+    margin: 2opx auto;
+}
+
+#reasons h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+}
+
+#number1 > div,
+#experience > div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#benefits p{
+    padding: 0 20px;
+}
+
+#benefits hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
 }
 
 /*footer*/
