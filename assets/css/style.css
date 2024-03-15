@@ -107,29 +107,31 @@ position: relative;
 
 .offerbox{
     background-color: rgba(182, 188, 192, 0.7);
-    font-size: 130%;
+    font-size: 80%;
     color:black;
     position: absolute;
-    bottom: 140px;
+    bottom: 120px;
     width: 80%;
     height: 100px;
     padding-top: 40px;
     padding-left: 10px;
     border:solid;
     font-style: bold;
+    text-align:center;
 
 }
 
 #cover-text {
     /* Final rbga value sets the opacity so it is semi-transparent */
     background-color: rgba(241, 109, 107, .7);
-    font-size: 130%;
+    font-size: 120%;
     position: absolute;
     bottom: 30px;
     width: 80%;
     min-height: 200px;
     padding-top: 40px;
     padding-left: 10px;
+    text-align:center;
 }
 
 #cover-text > h2, #cover-text > h3 {
