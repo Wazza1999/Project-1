@@ -108,7 +108,7 @@ main {
 
 .offerbox {
     background-color: rgba(0, 0, 0, 0.7);
-    font-size: fit-content;
+    font-size: 130%;
     color: red;
     position: absolute;
     bottom: 700px;
@@ -117,7 +117,7 @@ main {
     padding-top: 30px;
     padding-left: 10px;
     border: solid;
-    font-style: bold;
+    font-weight: bold;
     text-align: center;
     
 
@@ -144,7 +144,7 @@ main {
 /*reasons section*/
 #reasons {
     width:90%;
-    margin: 2opx auto;
+    margin: 2px auto;
 }
 
 #reasons h2 {
