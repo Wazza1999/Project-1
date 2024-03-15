@@ -1,6 +1,5 @@
 /*Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
-
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
@@ -29,8 +28,6 @@ h1 {
     letter-spacing: 2px;
     color: white;
 }
-
-
 
 /* Header */
 header {
@@ -76,6 +73,7 @@ nav {
     box-shadow: 1 2px 2px #3a3a3a;
     display: none;
     top: 100%;
+    border-style:solid;
 
 }
 
@@ -105,6 +103,21 @@ height:600px;
 width: 100%;
 background: url("../images/2200cee7ff69132752d970c212f34bda-min.jpg") no-repeat center center/cover;
 position: relative;
+}
+
+.offerbox{
+    background-color: rgba(182, 188, 192, 0.7);
+    font-size: 130%;
+    color:black;
+    position: absolute;
+    bottom: 140px;
+    width: 80%;
+    height: 100px;
+    padding-top: 40px;
+    padding-left: 10px;
+    border:solid;
+    font-style: bold;
+
 }
 
 #cover-text {
