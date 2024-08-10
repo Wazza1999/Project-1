@@ -1,17 +1,8 @@
 /*Google Fonts import*/
 @import url('https://fonts.googleapis.com/css2?family=Gupter:wght@400;500;700&display=swap');
 
-/*Header*/
-header { 
-background-color: azure;
-padding: 0 1rem;
-position: fixed;
-z-index: 99;
-width: 100%;
-border-top: 2.5px solid black;
-border-bottom: 2.5px solid black;
-border-right: 2.5px solid black;
-border-left: 2.5px solid black;
-font-family: Gupter, sans-serif;
-font-size: 300%;
-}
+/*body*/
+
+/*header*/
+
+/*Footer*/
