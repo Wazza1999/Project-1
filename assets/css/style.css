@@ -21,6 +21,11 @@ header {
     border: 5px solid black;
 }
 
+/*Navigation Bar in the Header*/
+.topnav {
+    background-color: darkred;
+    overflow: hidden;
+}
 
 /*Main Content*/
 main {
