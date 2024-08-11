@@ -4,6 +4,7 @@
 /*body*/
 body {
     font-family: Gupter, sans-serif;
+    font-size: 20px;
     background-color: azure;
     margin: 0;
     padding: 0;
@@ -21,11 +22,10 @@ header {
     border: 5px solid black;
 }
 
-/*Navigation Bar in the Header*/
-.topnav {
-    background-color: darkred;
-    overflow: hidden;
-}
+/*Navigation Bar*/
+
+
+
 
 /*Main Content*/
 main {
