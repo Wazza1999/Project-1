@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Gupter:wght@400;500;700&display=swap');
 
 /*body*/
-body{
+body {
     font-family: Gupter, sans-serif;
     background-color: azure;
     margin: 0;
@@ -10,22 +10,50 @@ body{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    
-}
-/*header*/
-header{
-background-color: darkred ;
-padding: 10px 0;
-margin: 0;
-border: 5px solid black;
+
 }
 
+/*header*/
+header {
+    background-color: darkred;
+    padding: 10px 0;
+    margin: 0;
+    border: 5px solid black;
+
+    #link1 {
+        color: black;
+    }
+}
+
+
 /*Main Content*/
-main{
+main {
     background-color: white;
     padding: 10px 0;
     margin: 0;
     border: 5px solid black;
     flex: 1 0 auto;
 }
+
+#arancini {
+    background-color: white;
+    padding: 10px 0;
+    margin: 0;
+    border: 5px solid black;
+}
+
+#spaghetti {
+    background-color: white;
+    padding: 10px 0;
+    margin: 0;
+    border: 5px solid black;
+}
+
+#cake {
+    background-color: white;
+    padding: 10px 0;
+    margin: 0;
+    border: 5px solid black;
+}
+
 /*Footer*/
