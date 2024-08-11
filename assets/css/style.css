@@ -16,14 +16,29 @@ body {
 
 /*header*/
 header {
-    background-color: darkred;
+    font-family: Gupter, sans-serif;
+    font-size: 350%;
+    background-color: goldenrod;
     padding: 10px 0;
     margin: 0;
-    border: 5px solid black;
+    border: 1px solid black;
 }
 
 /*Navigation Bar*/
+nav {
+    background-color: black;
+}
 
+nav a {
+    font-family: Gupter, sans-serif;
+    background-color: black;
+    padding: inherit;
+    margin: 1rem;
+    border: 1px solid darkred;
+    color: white;
+
+
+}
 
 
 
@@ -32,7 +47,7 @@ main {
     background-color: white;
     padding: 10px 0;
     margin: 0;
-    border: 5px solid black;
+    border: 1px solid black;
     flex: 1 0 auto;
 }
 
@@ -40,7 +55,7 @@ main {
     background-color: white;
     padding: 10px 0;
     margin: 0;
-    border: 5px solid black;
+    border: 1px solid black;
 
 }
 
@@ -48,7 +63,7 @@ main {
     background-color: white;
     padding: 10px 0;
     margin: 0;
-    border: 5px solid black;
+    border: 1px solid black;
 
 }
 
@@ -56,7 +71,7 @@ main {
     background-color: white;
     padding: 10px 0;
     margin: 0;
-    border: 5px solid black;
+    border: 1px solid black;
 
 }
 
