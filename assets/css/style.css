@@ -52,6 +52,7 @@ main {
 }
 
 #arancini {
+    background-image: url("assets/images/arancini.jpg");
     background-color: white;
     padding: 10px 0;
     margin: 0;
