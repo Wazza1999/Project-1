@@ -84,3 +84,27 @@ footer {
     border: 1px solid black;
 
 }
+
+/*Media queries for phone*/
+@media only screen and (min-device-width: 480px) {
+    nav a {
+        font-family: Gupter, sans-serif;
+        background-color: black;
+        padding: inherit;
+        margin: 1rem;
+        border: 1px solid darkred;
+        color: white;
+    }
+}
+
+/*Media queries for tablet and Desktop*/
+@media only screen and (min-device-width: 768px) {
+    nav a {
+        font-family: Gupter, sans-serif;
+        background-color: black;
+        padding: inherit;
+        margin: 1rem;
+        border: 1px solid darkred;
+        color: white;
+    }
+}
