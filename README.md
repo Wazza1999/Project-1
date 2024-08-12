@@ -43,11 +43,11 @@ I've only added a few of my favourite recipes so far but I want it to be a place
   - The footer section includes links to the relevant social media sites for Warren's kitchen. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer]()
+![Footer](https://github.com/Wazza1999/Project-1/blob/main/media/footer.png)
 
 ### Features Left to Implement
 
-- Another feature idea
+- A feature that let's people upload their own recipes for other people to try and rate perhaps with a star rating system.
 
 ## Testing 
 
