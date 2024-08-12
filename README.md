@@ -1,4 +1,4 @@
-# My Favourite Recipes
+# Warren's Recipes
 
 Warren's Recipes is a website I've created as a place for people who are looking for recipes of delicious foods to come and explore.
 
@@ -22,40 +22,28 @@ I've only added a few of my favourite recipes so far but I want it to be a place
 - __The Starters Page__
 
   - The starters section is a place where I will add recipes for starter dishes to share with whoever visits the site.
-   This section will be updated in the future with new and exciting recipes
+   This section will be updated in the future with new and exciting recipes.
 
-![Club Ethos](https://github.com/Wazza1999/Project-1/blob/main/media/starter.png)
+![Club Ethos](https://github.com/Wazza1999/Project-1/blob/main/media/starters.png)
 
 - __Mains section__
 
-  - This section much like the previous contains recipes for main dishes that I personally like 
-  - This section will be updated in the future with new and exciting recipes 
+  - This section much like the previous contains recipes for main dishes that I personally like.
+  - This section will be updated in the future with new and exciting recipes. 
 
 ![Meetup Times](https://github.com/Wazza1999/Project-1/blob/main/media/mains.png)
+
+- __Desserts Section__
+
+- This section is where my favourite dessert recipes can be found. 
+- This section will be updated in the future wiht new and exciting recipes.
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Warren's kitchen. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+![Footer]()
 
 ### Features Left to Implement
 
