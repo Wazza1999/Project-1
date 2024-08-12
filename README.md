@@ -24,19 +24,20 @@ I've only added a few of my favourite recipes so far but I want it to be a place
   - The starters section is a place where I will add recipes for starter dishes to share with whoever visits the site.
    This section will be updated in the future with new and exciting recipes.
 
-![Club Ethos](https://github.com/Wazza1999/Project-1/blob/main/media/starters.png)
+![Starters Page](https://github.com/Wazza1999/Project-1/blob/main/media/starters.png)
 
 - __Mains section__
 
   - This section much like the previous contains recipes for main dishes that I personally like.
   - This section will be updated in the future with new and exciting recipes. 
 
-![Meetup Times](https://github.com/Wazza1999/Project-1/blob/main/media/mains.png)
+![Mains Page](https://github.com/Wazza1999/Project-1/blob/main/media/mains.png)
 
 - __Desserts Section__
 
 - This section is where my favourite dessert recipes can be found. 
 - This section will be updated in the future wiht new and exciting recipes.
+![Desserts Page]()
 
 - __The Footer__ 
 
@@ -63,7 +64,7 @@ If this section grows too long, you may want to split it off into a separate fil
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://github.com/Wazza1999/Project-1/blob/main/media/w3c.png)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 

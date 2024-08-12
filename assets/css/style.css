@@ -86,7 +86,7 @@ footer {
 }
 
 /*Media queries for phone*/
-@media only screen and (min-device-width: 480px) {
+@media only screen and (min-width: 480px) {
     nav a {
         font-family: Gupter, sans-serif;
         background-color: black;
@@ -98,7 +98,7 @@ footer {
 }
 
 /*Media queries for tablet and Desktop*/
-@media only screen and (min-device-width: 768px) {
+@media only screen and (min-width: 768px) {
     nav a {
         font-family: Gupter, sans-serif;
         background-color: black;
