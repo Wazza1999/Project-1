@@ -46,6 +46,11 @@ I've only added a few of my favourite recipes so far but I want it to be a place
 
 ![Footer](https://github.com/Wazza1999/Project-1/blob/main/media/footer.png)
 
+- __Accessibility__
+
+- I've made the website accessible to everyone not matter the device that they are using which can be seen here
+![Accessibility](https://github.com/Wazza1999/Project-1/blob/main/media/mockup.png)
+
 ### Features Left to Implement
 
 - A feature that let's people upload their own recipes for other people to try and rate perhaps with a star rating system.
@@ -60,11 +65,9 @@ I've only added a few of my favourite recipes so far but I want it to be a place
   - No errors were found when passing through the official [(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/media/cssw3c.png)
 
 ### Unfixed Bugs
-- Due to extensive testing I couldn't seem to find any unfixable bugs, this can be seen through the two vaildators that I used to test both my HTML and CSS code. 
+- There seems to be a red outline along the navigation buttons that I can't seem to make disappear but that's due to my own lack of ability and not a bug itself. 
 
-- Although one thing to make a note of is there seems to be a red outline along the navigation buttons that I can't seem to make disappear but that's due to my own lack of ability and not a bug itself. 
-
-- Despite me using the "list-style-type: none;" code in my footer css I can't seem to remove the bullet points by the icons of the social medias. 
+- Despite me using the "list-style-type: none;" code in my footer css file I can't seem to hide the bullet points by the icons of the social medias. 
 
 ## Deployment
 
