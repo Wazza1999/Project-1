@@ -19,12 +19,12 @@ I've only added a few of my favourite recipes so far but I want it to be a place
 
 
 
-- ____
+- __The Starters Page__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The starters section is a place where I will add recipes for starter dishes to share with whoever visits the site.
+   This section will be updated in the future with new and exciting recipes
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Club Ethos](https://github.com/Wazza1999/Project-1/blob/main/media/starter.png)
 
 - __Meetup Times section__
 
