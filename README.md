@@ -1,10 +1,10 @@
 # Warren's Recipes
 
-Warren's Recipes is a website I've created as a place for people who are looking for recipes of delicious foods to come and explore.
+Warren's Recipes is a website I've created as a place for people who are looking for recipes of delicious foods to come together and explore.
 
-I've only added a few of my favourite recipes so far but I want it to be a place where I as both a chef and a website designer can record my progress and development and perhaps help people and myself develop their culinary skills and techniques.
+I've only added a few of my favourite recipes so far but I want it to be a place where I as both a chef and a website designer can record my progress and development and perhaps help other people develop their culinary skills and techniques.
 
-![Responsice Mockup](https://github.com/Wazza1999/Project-1/blob/main/media/mockup.png)
+![Responsive Mockup](https://github.com/Wazza1999/Project-1/blob/main/media/mockup.png)
 
 ## Features 
 
@@ -15,7 +15,7 @@ I've only added a few of my favourite recipes so far but I want it to be a place
   - Featured on all three pages, the full responsive navigation bar includes links to the Home page, recipes for the starters, mains and desserts and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/Wazza1999/Project-1/blob/main/media/nav_bar.png)
+![Nav Bar](https://github.com/Wazza1999/Project-1/blob/main/media/navbar.png)
 
 
 
@@ -37,7 +37,7 @@ I've only added a few of my favourite recipes so far but I want it to be a place
 
 - This section is where my favourite dessert recipes can be found. 
 - This section will be updated in the future wiht new and exciting recipes.
-![Desserts Page]()
+![Desserts Page](https://github.com/Wazza1999/Project-1/blob/main/media/dessert.png)
 
 - __The Footer__ 
 
@@ -50,9 +50,7 @@ I've only added a few of my favourite recipes so far but I want it to be a place
 
 - A feature that let's people upload their own recipes for other people to try and rate perhaps with a star rating system.
 
-## Testing 
-
-
+- Some more modern graphics
 
 ### Validator Testing 
 
@@ -62,11 +60,13 @@ I've only added a few of my favourite recipes so far but I want it to be a place
   - No errors were found when passing through the official [(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/media/cssw3c.png)
 
 ### Unfixed Bugs
+- Due to extensive testing I couldn't seem to find any unfixable bugs, this can be seen through the two vaildators that I used to test both my HTML and CSS code. 
 
+- Although one thing to make a note of is there seems to be a red outline along the navigation buttons that I can't seem to make disappear but that's due to my own lack of ability and not a bug itself. 
+
+- Despite me using the "list-style-type: none;" code in my footer css I can't seem to remove the bullet points by the icons of the social medias. 
 
 ## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
