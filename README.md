@@ -1,8 +1,8 @@
 # My Favourite Recipes
 
-My Favourite Recipes is a website I've created as a place for people who are looking for recipes of delicious foods to come and explore.
+Warren's Recipes is a website I've created as a place for people who are looking for recipes of delicious foods to come and explore.
 
-I've only added a few of my favourite recipes so far but I want it to be a place where I as both a chef and a website designer can record my progress and development.
+I've only added a few of my favourite recipes so far but I want it to be a place where I as both a chef and a website designer can record my progress and development and perhaps help people and myself develop their culinary skills and techniques.
 
 ![Responsice Mockup](https://github.com/Wazza1999/Project-1/blob/main/media/mockup.png)
 
@@ -12,7 +12,7 @@ I've only added a few of my favourite recipes so far but I want it to be a place
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Home page, recipes for the arancini, spaghetti and chocolate cake. and is identical in each page to allow for easy navigation.
+  - Featured on all three pages, the full responsive navigation bar includes links to the Home page, recipes for the starters, mains and desserts and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Nav Bar](https://github.com/Wazza1999/Project-1/blob/main/media/nav_bar.png)
@@ -26,16 +26,16 @@ I've only added a few of my favourite recipes so far but I want it to be a place
 
 ![Club Ethos](https://github.com/Wazza1999/Project-1/blob/main/media/starter.png)
 
-- __Meetup Times section__
+- __Mains section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section much like the previous contains recipes for main dishes that I personally like 
+  - This section will be updated in the future with new and exciting recipes 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Meetup Times](https://github.com/Wazza1999/Project-1/blob/main/media/mains.png)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for Warren's kitchen. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
