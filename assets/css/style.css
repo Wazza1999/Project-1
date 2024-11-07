@@ -22,19 +22,16 @@ header {
     padding: 10px 0;
     margin: 0;
     border: 1px solid black;
+   
 }
 
 /*Navigation Bar*/
-nav{
-    background-color: black;
-    height: 50px;
+nav {
+    background-color: grey;
     margin: 0;
     padding: 0;
 }
 
-nav a{
-    float: left;
-}
 
 /*Main Content*/
 main {
@@ -64,6 +61,7 @@ main {
 
 #cake {
     background-color: white;
+    height: auto;
     padding:0;
     margin: 0;
     border: 1px solid black;
@@ -74,22 +72,26 @@ main {
 footer {
     background-color: goldenrod;
     margin: 0;
+    padding: 0;
     border: 1px solid black;
 }
 
 footer ul{
     list-style-type: none;
+    
+}
+
+footer li{
+    display: inline;
 }
 
 /*Media queries for phone*/
 @media only screen and (min-width: 480px) {
     nav a {
         font-family: Gupter, sans-serif;
-        background-color: black;
         padding: inherit;
-        margin: 1rem;
-        border: 1px solid darkred;
-        color: white;
+        margin: 0;
+        color: black;
     }
 }
 
@@ -97,10 +99,8 @@ footer ul{
 @media only screen and (min-width: 768px) {
     nav a {
         font-family: Gupter, sans-serif;
-        background-color: black;
         padding: inherit;
-        margin: 1rem;
-        border: 1px solid darkred;
-        color: white;
+        margin: 0;
+        color: black;
     }
 }
