@@ -25,22 +25,11 @@ header {
 }
 
 /*Navigation Bar*/
-nav {
-    background-color: black;
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
-
-nav a {
-    font-family: Gupter, sans-serif;
-    background-color: black;
-    padding: inherit;
-    margin: 1rem;
-    border: 1px solid darkred;
-    color: white;
-
-
-}
-
-
 
 /*Main Content*/
 main {
