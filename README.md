@@ -88,7 +88,7 @@ The live link can be found here - https://wazza1999.github.io/Project-1/
 
 ### Content 
 
-- The Recipes were made using ChatGPT 
+- All code is original and only the recipes were taken from chatgpt 
 - The footer links lead to Facebook, Youtube, Instagram and Linkedin
 
 ### Media
