@@ -11,7 +11,6 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-
 }
 
 /*header*/
@@ -22,7 +21,7 @@ header {
     padding: 10px 0;
     margin: 0;
     border: 4mm ridge goldenrod;
-
+    text-align: center;
 }
 
 /*Navigation Bar*/
@@ -119,9 +118,7 @@ footer li {
     }
 
     nav a {
-        font-family: Gupter, sans-serif;
-        padding: inherit;
-        margin: 0;
+        text-decoration: none;
         color: white;
     }
 
