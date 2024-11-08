@@ -32,15 +32,29 @@ nav {
     margin: 1px;
     padding: 0;
 
+
+}
+
+nav li {
+
+    width: 25%;
+    float: left;
+    text-align: center;
+
 }
 
 nav a {
     text-decoration: none;
+    width: 25%;
     color: white;
 
 }
 
-.active{
+a:hover {
+    background-color: grey;
+}
+
+.active {
     background-color: green;
 }
 
@@ -91,22 +105,24 @@ footer {
 
 footer ul {
     list-style-type: none;
-
 }
 
 footer li {
     display: inline;
+    width: 25%;
+    float: left;
+    text-align: center;
 }
 
 /*Media queries for phone*/
-@media only screen and (min-width: 480px) {
+@media only screen and (min-width: 320px) {
 
     nav {
         background-color: black;
         border: 4mm ridge white;
         margin: 1px;
         padding: 0;
-    
+
     }
 
     nav a {
@@ -116,20 +132,20 @@ footer li {
         color: white;
     }
 
-    .active{
+    .active {
         background-color: green;
     }
 }
 
 /*Media queries for tablet and Desktop*/
 @media only screen and (min-width: 768px) {
-    
+
     nav {
         background-color: black;
         border: 4mm ridge white;
         margin: 1px;
         padding: 0;
-    
+
     }
 
     nav a {
@@ -139,7 +155,11 @@ footer li {
         color: white;
     }
 
-    .active{
+    a:hover {
+        background-color: grey;
+    }
+
+    .active {
         background-color: green;
     }
 }
