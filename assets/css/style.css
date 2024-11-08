@@ -27,8 +27,8 @@ header {
 
 /*Navigation Bar*/
 nav {
-    background-color: darkgrey;
-    border: 4mm ridge darkgrey;
+    background-color: black;
+    border: 4mm ridge white;
     margin: 1px;
     padding: 0;
 
@@ -36,8 +36,12 @@ nav {
 
 nav a {
     text-decoration: none;
-    color: black;
+    color: white;
 
+}
+
+.active{
+    background-color: green;
 }
 
 
@@ -62,7 +66,7 @@ main {
 
 #spaghetti {
     background-color: white;
-    padding: 10px;
+    padding: 10px 0;
     margin: 0;
     border: 1px solid black;
 
@@ -71,7 +75,7 @@ main {
 #cake {
     background-color: white;
     height: auto;
-    padding: 0;
+    padding: 15px 0;
     margin: 0;
     border: 1px solid black;
 
@@ -96,20 +100,46 @@ footer li {
 
 /*Media queries for phone*/
 @media only screen and (min-width: 480px) {
+
+    nav {
+        background-color: black;
+        border: 4mm ridge white;
+        margin: 1px;
+        padding: 0;
+    
+    }
+
     nav a {
         font-family: Gupter, sans-serif;
         padding: inherit;
         margin: 0;
-        color: black;
+        color: white;
+    }
+
+    .active{
+        background-color: green;
     }
 }
 
 /*Media queries for tablet and Desktop*/
 @media only screen and (min-width: 768px) {
+    
+    nav {
+        background-color: black;
+        border: 4mm ridge white;
+        margin: 1px;
+        padding: 0;
+    
+    }
+
     nav a {
         font-family: Gupter, sans-serif;
         padding: inherit;
         margin: 0;
-        color: black;
+        color: white;
+    }
+
+    .active{
+        background-color: green;
     }
 }
