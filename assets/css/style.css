@@ -35,19 +35,12 @@ nav {
 
 }
 
-nav li {
-
-    width: 25%;
-    float: left;
-    text-align: center;
-
-}
-
 nav a {
-    text-decoration: none;
-    width: 25%;
+    list-style-type: none ;
+    font-family: Gupter, sans-serif;
+    padding: inherit;
+    margin: 0;
     color: white;
-
 }
 
 a:hover {
@@ -149,9 +142,7 @@ footer li {
     }
 
     nav a {
-        font-family: Gupter, sans-serif;
-        padding: inherit;
-        margin: 0;
+        text-decoration: none;
         color: white;
     }
 
