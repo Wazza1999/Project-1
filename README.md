@@ -70,9 +70,7 @@ I've only added a few of my favourite recipes so far but I want it to be a place
   - No errors were found when passing through the official [(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/media/cssw3c.png)
 
 ### Unfixed Bugs
-- There seems to be a red outline along the navigation buttons that I can't seem to make disappear but that's due to my own lack of ability and not a bug itself. 
 
-- Despite me using the "list-style-type: none;" code in my footer css file I can't seem to hide the bullet points by the icons of the social medias. 
 
 ## Deployment
 
