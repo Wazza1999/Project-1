@@ -28,8 +28,8 @@ header {
 nav {
     background-color: black;
     border: 4mm ridge white;
-    margin: 1px;
-    padding: 0;
+    padding: 1.8rem;
+    margin: 0;
 
 
 }
@@ -37,7 +37,7 @@ nav {
 nav a {
     list-style-type: none ;
     font-family: Gupter, sans-serif;
-    padding: inherit;
+    padding: 1.8rem;
     margin: 0;
     color: white;
 }
@@ -113,13 +113,14 @@ footer li {
         background-color: black;
         border: 4mm ridge white;
         margin: 1px;
-        padding: 0;
+        padding: 1.8rem;
 
     }
 
     nav a {
         text-decoration: none;
         color: white;
+        padding: 1.8rem;
     }
 
     .active {
@@ -134,13 +135,14 @@ footer li {
         background-color: black;
         border: 4mm ridge white;
         margin: 1px;
-        padding: 0;
+        padding: 1.8rem;
 
     }
 
     nav a {
         text-decoration: none;
         color: white;
+        padding:1.8rem;
     }
 
     a:hover {
