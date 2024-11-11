@@ -30,8 +30,6 @@ nav {
     border: 4mm ridge white;
     padding: 1.8rem;
     margin: 0;
-
-
 }
 
 nav a {
@@ -40,6 +38,7 @@ nav a {
     padding: 1.8rem;
     margin: 0;
     color: white;
+    display: inline;
 }
 
 a:hover {
@@ -125,6 +124,7 @@ footer li {
 
     .active {
         background-color: green;
+        padding: 1.8rem;
     }
 }
 
