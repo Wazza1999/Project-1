@@ -1,155 +1,146 @@
 /*Google Fonts import*/
-@import url('https://fonts.googleapis.com/css2?family=Gupter:wght@400;500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Gupter:wght@400;500;700&display=swap");
 
 /*body*/
 body {
-    font-family: Gupter, sans-serif;
-    font-size: 20px;
-    background-color: azure;
-    margin: 0;
-    padding: 0;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+  font-family: Gupter, sans-serif;
+  font-size: 20px;
+  background-color: azure;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 /*header*/
 header {
-    font-family: Gupter, sans-serif;
-    font-size: 350%;
-    background-color: goldenrod;
-    padding: 10px 0;
-    margin: 0;
-    border: 4mm ridge goldenrod;
-    text-align: center;
+  font-family: Gupter, sans-serif;
+  font-size: 350%;
+  background-color: goldenrod;
+  padding: 10px 0;
+  margin: 0;
+  border: 4mm ridge goldenrod;
+  text-align: center;
 }
 
 /*Navigation Bar*/
 nav {
-    background-color: black;
-    border: 4mm ridge white;
-    padding: 1.8rem;
-    margin: 0;
+  background-color: black;
+  border: 4mm ridge white;
+  padding: 1.8rem;
+  margin: 0;
 }
 
 nav a {
-    list-style-type: none ;
-    font-family: Gupter, sans-serif;
-    padding: 1.8rem;
-    margin: 0;
-    color: white;
-    display: inline;
+  list-style-type: none;
+  font-family: Gupter, sans-serif;
+  padding: 1.8rem;
+  margin: 0;
+  color: white;
+  display: inline;
 }
 
 a:hover {
-    background-color: grey;
+  background-color: grey;
 }
 
 .active {
-    background-color: green;
+  background-color: green;
 }
-
 
 /*Main Content*/
 main {
-    background-color: white;
-    padding: 0;
-    margin: 0;
-    border: 1px solid black;
-    flex: 1 0 auto;
-    border: 4mm ridge white;
+  background-color: white;
+  padding: 0;
+  margin: 0;
+  border: 1px solid black;
+  flex: 1 0 auto;
+  border: 4mm ridge white;
 }
 
 #arancini {
-
-    background-color: white;
-    padding: 10px 0;
-    margin: 0;
-    border: 1px solid black;
-
+  background-color: white;
+  padding: 10px 0;
+  margin: 0;
+  border: 1px solid black;
 }
 
 #spaghetti {
-    background-color: white;
-    padding: 10px 0;
-    margin: 0;
-    border: 1px solid black;
-
+  background-color: white;
+  padding: 10px 0;
+  margin: 0;
+  border: 1px solid black;
 }
 
 #cake {
-    background-color: white;
-    height: auto;
-    padding: 15px 0;
-    margin: 0;
-    border: 1px solid black;
-
+  background-color: white;
+  height: auto;
+  padding: 15px 0;
+  margin: 0;
+  border: 1px solid black;
 }
 
 /*Footer*/
 footer {
-    background-color: goldenrod;
-    margin: 0;
-    padding: 0;
-    border: 4mm ridge goldenrod;
+  background-color: goldenrod;
+  margin: 0;
+  padding: 0;
+  border: 4mm ridge goldenrod;
 }
 
 footer ul {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 footer li {
-    display: inline;
-    width: 25%;
-    float: left;
-    text-align: center;
+  display: inline;
+  width: 25%;
+  float: left;
+  text-align: center;
 }
 
 /*Media queries for phone*/
 @media only screen and (min-width: 320px) {
+  nav {
+    background-color: black;
+    border: 4mm ridge white;
+    margin: 1px;
+    padding: 1.8rem;
+  }
 
-    nav {
-        background-color: black;
-        border: 4mm ridge white;
-        margin: 1px;
-        padding: 1.8rem;
+  nav a {
+    text-decoration: none;
+    color: white;
+    padding: 1.8rem;
+  }
 
-    }
-
-    nav a {
-        text-decoration: none;
-        color: white;
-        padding: 1.8rem;
-    }
-
-    .active {
-        background-color: green;
-        padding: 1.8rem;
-    }
+  .active {
+    background-color: green;
+    padding: 1.8rem;
+  }
 }
 
 /*Media queries for tablet and Desktop*/
 @media only screen and (min-width: 768px) {
+  nav {
+    background-color: black;
+    border: 4mm ridge white;
+    margin: 1px;
+    padding: 1.8rem;
+  }
 
-    nav {
-        background-color: black;
-        border: 4mm ridge white;
-        margin: 1px;
-        padding: 1.8rem;
+  nav a {
+    text-decoration: none;
+    color: white;
+    padding: 1.8rem;
+  }
 
-    }
+  a:hover {
+    background-color: grey;
+  }
 
-    nav a {
-        text-decoration: none;
-        color: white;
-        padding:1.8rem;
-    }
-
-    a:hover {
-        background-color: grey;
-    }
-
-    .active {
-        background-color: green;
-    }
+  .active {
+    background-color: green;
+  }
 }
