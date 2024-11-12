@@ -112,12 +112,11 @@ footer li {
   nav a {
     text-decoration: none;
     color: white;
-    padding: 1.8rem;
   }
 
   .active {
     background-color: green;
-    padding: 1.8rem;
+    
   }
 }
 
