@@ -18,7 +18,7 @@ header {
   font-family: Gupter, sans-serif;
   font-size: 350%;
   background-color: goldenrod;
-  padding: 10px 0;
+  padding: 10px;
   margin: 0;
   border: 4mm ridge goldenrod;
   text-align: center;
@@ -28,8 +28,8 @@ header {
 nav {
   background-color: black;
   border: 4mm ridge white;
-  padding: 1.8rem;
-  margin: 0;
+  padding: 0;
+  margin:0;
 }
 
 nav a {
@@ -38,7 +38,7 @@ nav a {
   padding: 1.8rem;
   margin: 0;
   color: white;
-  display: inline;
+  display: inline-block;
 }
 
 a:hover {
@@ -57,6 +57,10 @@ main {
   border: 1px solid black;
   flex: 1 0 auto;
   border: 4mm ridge white;
+}
+
+#heading{
+color: black;
 }
 
 #arancini {
@@ -105,18 +109,18 @@ footer li {
   nav {
     background-color: black;
     border: 4mm ridge white;
-    margin: 1px;
-    padding: 1.8rem;
+    margin: 0;
   }
 
   nav a {
     text-decoration: none;
     color: white;
+    padding: 10px;
+
   }
 
   .active {
     background-color: green;
-    
   }
 }
 
@@ -125,8 +129,9 @@ footer li {
   nav {
     background-color: black;
     border: 4mm ridge white;
-    margin: 1px;
-    padding: 1.8rem;
+    margin: 0;
+    padding: 0;
+    display: inline;
   }
 
   nav a {
