@@ -11,7 +11,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  width:100%;
+  width: 100%;
 }
 
 /*header*/
@@ -52,7 +52,7 @@ a:hover {
 
 /*Main Content*/
 main {
-  background-color: white;
+  background-color: grey;
   padding: 0;
   margin: 0;
   border: 1px solid black;
@@ -70,7 +70,7 @@ main {
   color: black;
 }
 
-.card{
+.card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2);
   width: 50%;
 }
@@ -124,7 +124,6 @@ footer li {
 
 /*Media queries for phone*/
 @media screen and (min-width: 320px) {
-
   nav {
     background-color: black;
     border: 4mm ridge white;
@@ -140,7 +139,6 @@ footer li {
   .active {
     background-color: green;
   }
-
 }
 
 /*Media queries for tablet and Desktop*/
