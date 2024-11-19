@@ -124,6 +124,29 @@ footer li {
 
 /*Media queries for phone*/
 @media screen and (min-width: 320px) {
+
+  img{
+object-fit: cover;
+width: 100%;
+  }
+
+  div#arancini.card{
+    object-fit: contain;
+    width: 70%;
+  
+  }
+
+  div#spaghetti.card{
+    object-fit: contain;
+    width: 70%;
+    position:sticky;
+  }
+
+  div#cake.card{
+    object-fit: contain;
+    width: 70%;
+  }
+
   nav {
     background-color: black;
     border: 4mm ridge white;
