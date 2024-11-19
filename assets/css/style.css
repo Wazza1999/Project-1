@@ -137,12 +137,72 @@ main {
   border-radius: 5px 5px 0;
 }
 
+/*Main content for the spaghetti page design*/
+
+#spaghetti1{
+  background-color: white;
+  padding: 10px 0;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 5px 5px 0;
+}
+
+#spaghetti2{
+  background-color: white;
+  padding: 10px 0;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 5px 5px 0;
+}
+
 /*Footer*/
 footer {
   background-color: goldenrod;
   margin: 0;
   padding: 0;
   border: 4mm ridge goldenrod;
+}
+
+/*Main content for the cake page design.*/
+
+#cake1{
+  background-color: white;
+  padding: 10px 0;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 5px 5px 0;
+}
+
+#cake2{
+  background-color: white;
+  padding: 10px 0;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 5px 5px 0;
+}
+
+#cake3{
+  background-color: white;
+  padding: 10px 0;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 5px 5px 0;
+}
+
+#cake4{
+  background-color: white;
+  padding: 10px 0;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 5px 5px 0;
+}
+
+#cake5{
+  background-color: white;
+  padding: 10px 0;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 5px 5px 0;
 }
 
 footer ul {
