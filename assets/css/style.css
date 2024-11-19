@@ -102,6 +102,38 @@ main {
   border: 1px solid black;
   border-radius: 5px 5px 0;
 }
+/* Main content for Arancini page design.*/
+#arancini1{
+  background-color: white;
+  padding: 10px 0;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 5px 5px 0;
+}
+
+#arancini2{
+  background-color: white;
+  padding: 10px 0;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 5px 5px 0;
+}
+
+#arancini3{
+  background-color: white;
+  padding: 10px 0;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 5px 5px 0;
+}
+
+#instructions{
+  background-color: white;
+  padding: 10px 0;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 5px 5px 0;
+}
 
 /*Footer*/
 footer {
@@ -124,25 +156,23 @@ footer li {
 
 /*Media queries for phone*/
 @media screen and (min-width: 320px) {
-
-  img{
-object-fit: cover;
-width: 100%;
+  img {
+    object-fit: contain;
+    width: 100%;
   }
 
-  div#arancini.card{
+  div#arancini.card {
     object-fit: contain;
     width: 70%;
-  
   }
 
-  div#spaghetti.card{
+  div#spaghetti.card {
     object-fit: contain;
     width: 70%;
-    position:sticky;
+    position: sticky;
   }
 
-  div#cake.card{
+  div#cake.card {
     object-fit: contain;
     width: 70%;
   }
