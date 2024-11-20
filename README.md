@@ -54,7 +54,10 @@ I've only added a few of my favourite recipes so far but I want it to be a place
 
 - This section is where my favourite dessert recipes can be found.
 - This section will be updated in the future wiht new and exciting recipes.
-  ![Desserts Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/dessert.png)
+
+  ![Desserts Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cake1page.JPG)
+  ![Desserts Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cake2page.JPG)
+  ![Desserts Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cake3page.JPG)
 
 - **The Footer**
 
