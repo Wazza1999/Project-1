@@ -67,18 +67,19 @@ I've only added a few of my favourite recipes so far but I want it to be a place
 ![Footer](https://github.com/Wazza1999/Project-1/blob/main/assets/media/footer.JPG)
 
 - **Accessibility**
-
-- I've made the website accessible to everyone not matter the device that they are using which can be seen here
+- I've also made the website usable for people with colourblindness by putting it through a accessibility validator (lighthouse) which can be seen here
   ![Accessibility](https://github.com/Wazza1999/Project-1/blob/main/assets/media/index-accessibility.JPG)
   ![Accessibility](https://github.com/Wazza1999/Project-1/blob/main/assets/media/arancini-accessibility.JPG)
   ![Accessibility](https://github.com/Wazza1999/Project-1/blob/main/assets/media/spagbol-accessibility.JPG)
   ![Accessibility](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cake-accessibility.JPG)
 
-- I've also made the website usable for people with colourblindness by putting it through a accessibility validator which can be seen here
-- https://www.toptal.com/designers/colorfilter?orig_uri=https://wazza1999.github.io/Project-1/&process_type=protan
-- https://www.toptal.com/designers/colorfilter?orig_uri=https://wazza1999.github.io/Project-1/arancini.html&process_type=protan
-- https://www.toptal.com/designers/colorfilter?orig_uri=https://wazza1999.github.io/Project-1/spaghetti.html&process_type=protan
-- https://www.toptal.com/designers/colorfilter?orig_uri=https://wazza1999.github.io/Project-1/cake.html&process_type=protan
+  - I've also put the website through a colour blindness checker to show that people with colour blindness can also use it
+  ![Colour Blindness - Protanopia](https://www.toptal.com/designers/colorfilter?orig_uri=https://wazza1999.github.io/Project-1/index.html&process_type=protan)
+  ![Colour Blindness - Deuteranopia](https://www.toptal.com/designers/colorfilter?orig_uri=https://wazza1999.github.io/Project-1/index.html&process_type=deutan)
+  ![Colour Blindness - Tritanopia](https://www.toptal.com/designers/colorfilter?orig_uri=https://wazza1999.github.io/Project-1/index.html&process_type=tritan)
+  ![Colour Blindness](https://www.toptal.com/designers/colorfilter?orig_uri=https://wazza1999.github.io/Project-1/index.html&process_type=grey)
+
+
 
 ### Features Left to Implement
 
