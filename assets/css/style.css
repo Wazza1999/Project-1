@@ -65,7 +65,15 @@ main {
   border: 4mm ridge white;
 }
 
-#heading {
+#heading1 {
+  color: black;
+}
+
+#heading2 {
+  color: black;
+}
+
+#heading3 {
   color: black;
 }
 
@@ -89,13 +97,13 @@ main {
 
 .spagbol {
   width: 100%;
-  max-height: 700px;
+  max-height: 600px;
   overflow: hidden;
 }
 
 .cake{
   width: 100%;
-  max-height: 1000px;
+  max-height: 800px;
   overflow: hidden;
 }
 
@@ -173,14 +181,6 @@ main {
   border-radius: 5px 5px 0;
 }
 
-/*Footer*/
-footer {
-  background-color: goldenrod;
-  margin: 0;
-  padding: 0;
-  border: 4mm ridge goldenrod;
-}
-
 /*Main content for the cake page design.*/
 
 #cake1 {
@@ -221,6 +221,14 @@ footer {
   margin: 10px;
   border: 1px solid black;
   border-radius: 5px 5px 0;
+}
+
+/*Footer*/
+footer {
+  background-color: goldenrod;
+  margin: 0;
+  padding: 0;
+  border: 4mm ridge goldenrod;
 }
 
 footer ul {
