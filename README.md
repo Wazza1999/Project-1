@@ -23,7 +23,7 @@ I've only added a few of my favourite recipes so far but I want it to be a place
   - Featured on all three pages, the full responsive navigation bar includes links to the Home page, recipes for the starters, mains and desserts and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-![Nav Bar]((https://github.com/Wazza1999/Project-1/blob/main/assets/media/nav-bar.JPG))
+![Nav Bar](https://github.com/Wazza1999/Project-1/blob/main/assets/media/nav-bar.JPG)
 
 - **The Starters Page**
 
