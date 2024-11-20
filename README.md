@@ -25,6 +25,13 @@ I've only added a few of my favourite recipes so far but I want it to be a place
 
 ![Nav Bar](https://github.com/Wazza1999/Project-1/blob/main/assets/media/nav-bar.JPG)
 
+-**The Index Page**
+
+-The index page or the 'home page' is where every starts when loading the website up and they have access to click on any of the other pages through the nav bar but also by clicking on the headings of each card. As well as links to all popular social media websites.
+
+![Index Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/index1page.JPG)
+![Index Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/index2page.JPG)
+
 - **The Starters Page**
 
   - The starters section is a place where I will add recipes for starter dishes to share with whoever visits the site.
