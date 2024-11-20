@@ -51,6 +51,11 @@ a:hover {
 }
 
 /*Main Content*/
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
 main {
   background-color: grey;
   padding: 0;
@@ -60,12 +65,6 @@ main {
   border: 4mm ridge white;
 }
 
-.image {
-  max-width: 100%;
-  overflow: hidden;
-  text-align: center;
-}
-
 #heading {
   color: black;
 }
@@ -73,6 +72,31 @@ main {
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2);
   width: 50%;
+}
+
+/* Images for each page*/
+.chef {
+  width: 100%;
+  max-height: 800px;
+  overflow: hidden;
+}
+
+.aranciniimage {
+  width: 100%;
+  max-height: 700px;
+  overflow: hidden;
+}
+
+.spagbol {
+  width: 100%;
+  max-height: 700px;
+  overflow: hidden;
+}
+
+.chococake  {
+  width: 100%;
+  max-height: 800px;
+  overflow: hidden;
 }
 
 #arancini {
@@ -111,11 +135,6 @@ main {
   margin: 10px;
   border: 1px solid black;
   border-radius: 5px 5px 0;
-  
-}
-
-.aranciniimage {
-  background-size: contain;
 }
 
 #arancini2 {
