@@ -105,31 +105,30 @@ main {
   border-radius: 5px 5px 0;
 }
 /* Main content for Arancini page design.*/
-#arancini1{
+#arancini1 {
   background-color: white;
   padding: 10px 0;
   margin: 10px;
   border: 1px solid black;
   border-radius: 5px 5px 0;
+  
 }
 
-#arancini2{
+.aranciniimage {
+  background-size: contain;
+}
+
+#arancini2 {
   background-color: white;
   padding: 10px 0;
   margin: 10px;
   border: 1px solid black;
   border-radius: 5px 5px 0;
+  position: relative;
+  left: 45%;
 }
 
-#arancini3{
-  background-color: white;
-  padding: 10px 0;
-  margin: 10px;
-  border: 1px solid black;
-  border-radius: 5px 5px 0;
-}
-
-#instructions{
+#instructions {
   background-color: white;
   padding: 10px 0;
   margin: 10px;
@@ -139,7 +138,7 @@ main {
 
 /*Main content for the spaghetti page design*/
 
-#spaghetti1{
+#spaghetti1 {
   background-color: white;
   padding: 10px 0;
   margin: 10px;
@@ -147,7 +146,7 @@ main {
   border-radius: 5px 5px 0;
 }
 
-#spaghetti2{
+#spaghetti2 {
   background-color: white;
   padding: 10px 0;
   margin: 10px;
@@ -165,7 +164,7 @@ footer {
 
 /*Main content for the cake page design.*/
 
-#cake1{
+#cake1 {
   background-color: white;
   padding: 10px 0;
   margin: 10px;
@@ -173,7 +172,7 @@ footer {
   border-radius: 5px 5px 0;
 }
 
-#cake2{
+#cake2 {
   background-color: white;
   padding: 10px 0;
   margin: 10px;
@@ -181,7 +180,7 @@ footer {
   border-radius: 5px 5px 0;
 }
 
-#cake3{
+#cake3 {
   background-color: white;
   padding: 10px 0;
   margin: 10px;
@@ -189,7 +188,7 @@ footer {
   border-radius: 5px 5px 0;
 }
 
-#cake4{
+#cake4 {
   background-color: white;
   padding: 10px 0;
   margin: 10px;
@@ -197,7 +196,7 @@ footer {
   border-radius: 5px 5px 0;
 }
 
-#cake5{
+#cake5 {
   background-color: white;
   padding: 10px 0;
   margin: 10px;
@@ -222,23 +221,44 @@ footer li {
     object-fit: contain;
     width: 100%;
   }
-
-  div#arancini.card {
+  /* Media query for index.html*/
+  #arancini.card {
     object-fit: contain;
     width: 70%;
   }
 
-  div#spaghetti.card {
+  #spaghetti.card {
     object-fit: contain;
     width: 70%;
     position: sticky;
   }
 
-  div#cake.card {
+  #cake.card {
+    object-fit: contain;
+    width: 70%;
+  }
+  /* Media query for arancini.html*/
+  #arancini1.card {
     object-fit: contain;
     width: 70%;
   }
 
+  #arancini2.card {
+    object-fit: contain;
+    width: 70%;
+    position: sticky;
+  }
+
+  #arancini3 {
+    object-fit: contain;
+    width: 70%;
+  }
+
+  #instructions.card {
+    object-fit: contain;
+    width: 70%;
+  }
+  /*Media query for Nav bar.*/
   nav {
     background-color: black;
     border: 4mm ridge white;
