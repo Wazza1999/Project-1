@@ -101,7 +101,7 @@ main {
   overflow: hidden;
 }
 
-.cake{
+.cake {
   width: 100%;
   max-height: 800px;
   overflow: hidden;
@@ -209,7 +209,7 @@ main {
   border: 1px solid black;
   border-radius: 5px 5px 0;
   position: relative;
-  left: 35%;
+  left: 25%;
 }
 
 #cake4 {
@@ -219,7 +219,7 @@ main {
   border: 1px solid black;
   border-radius: 5px 5px 0;
   position: relative;
-  left: 45%;
+  left: 25%;
 }
 
 #cake5 {
@@ -292,6 +292,46 @@ footer li {
     object-fit: contain;
     width: 70%;
   }
+
+  /*Media query for spaghetti.html*/
+
+  #spaghetti1 {
+    object-fit: contain;
+    width: 70%;
+  }
+
+  #spaghetti2 {
+    object-fit: contain;
+    width: 70%;
+  }
+
+  /*Media query for spaghetti.html*/
+
+  #cake1 {
+    object-fit: contain;
+    width: 60%;
+  }
+
+  #cake2 {
+    object-fit: contain;
+    width: 60%;
+  }
+
+  #cake3 {
+    object-fit: contain;
+    width: 60%;
+  }
+
+  #cake4 {
+    object-fit: contain;
+    width: 60%;
+  }
+
+  #cake5 {
+    object-fit: contain;
+    width: 60%;
+  }
+
   /*Media query for Nav bar.*/
   nav {
     background-color: black;
