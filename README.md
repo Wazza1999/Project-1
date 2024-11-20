@@ -90,9 +90,17 @@ I've only added a few of my favourite recipes so far but I want it to be a place
 ### Validator Testing
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/w3c.png)
+  - No errors were returned when passing through the official 
+  ![W3C validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/indexcheck-html.JPG)
+  ![W3C validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/arancinicheck-html.JPG)
+  ![W3C validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/spagbolcheck-html.JPG)
+  ![W3C validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cakecheck-html.JPG)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cssw3c.png)
+  - No errors were found when passing through the official
+  ![(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/index-csscheck.JPG)
+  ![(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/arancini-csscheck.JPG)
+  ![(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/spagbol-csscheck.JPG)
+  ![(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cake-csscheck.JPG)
 
 ### Unfixed Bugs
 
