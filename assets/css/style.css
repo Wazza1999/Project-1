@@ -50,7 +50,7 @@ a:hover {
   background-color: green;
 }
 
-/*Main Content*/
+/*Main Content for Index page design*/
 img {
   max-width: 100%;
   max-height: 100%;
@@ -179,6 +179,7 @@ main {
   margin: 10px;
   border: 1px solid black;
   border-radius: 5px 5px 0;
+  float: right;
 }
 
 /*Main content for the cake page design.*/
@@ -197,6 +198,8 @@ main {
   margin: 10px;
   border: 1px solid black;
   border-radius: 5px 5px 0;
+  position: relative;
+  left: 25%;
 }
 
 #cake3 {
@@ -205,6 +208,8 @@ main {
   margin: 10px;
   border: 1px solid black;
   border-radius: 5px 5px 0;
+  position: relative;
+  left: 35%;
 }
 
 #cake4 {
@@ -213,6 +218,8 @@ main {
   margin: 10px;
   border: 1px solid black;
   border-radius: 5px 5px 0;
+  position: relative;
+  left: 45%;
 }
 
 #cake5 {
