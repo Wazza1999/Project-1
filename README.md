@@ -16,14 +16,14 @@ I've only added a few of my favourite recipes so far but I want it to be a place
 - **Header**
 -Featured on all three pages is a simple header that is clear and easy to read and states exactly what I want to portray the website as; simple.
 
-![Header]()
+![Header](https://github.com/Wazza1999/Project-1/blob/main/assets/media/header.JPG)
 
 - **Navigation Bar**
 
   - Featured on all three pages, the full responsive navigation bar includes links to the Home page, recipes for the starters, mains and desserts and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-![Nav Bar]()
+![Nav Bar]((https://github.com/Wazza1999/Project-1/blob/main/assets/media/nav-bar.JPG))
 
 - **The Starters Page**
 
