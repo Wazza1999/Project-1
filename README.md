@@ -102,8 +102,6 @@ I've only added a few of my favourite recipes so far but I want it to be a place
   ![(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/spagbol-csscheck.JPG)
   ![(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cake-csscheck.JPG)
 
-### Unfixed Bugs
-
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -117,13 +115,9 @@ The live link can be found here - https://wazza1999.github.io/Project-1/
 
 ### Content
 
-- All code is original and only the recipes were taken from chatgpt
+- All code is originally created by me and only the recipe descriptions were taken from chatgpt
 - The footer links lead to Facebook, Youtube, Instagram and Linkedin
 
 ### Media
-
-- The photo used for the starter page was taken from https://www.themediterraneandish.com/arancini/
-- The photo used for the Mains page was taken from https://www.takeaway.com/foodwiki/italy/spaghetti-bolognese/
-- The photo used for the Dessert Page was taken from https://richanddelish.com/best-ever-chocolate-cake/
-
+ -The images used in every page was taken from [unsplash](https://unsplash.com/)
 - The Icons used in the footer were taken from https://fontawesome.com/
