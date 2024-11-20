@@ -46,7 +46,9 @@ I've only added a few of my favourite recipes so far but I want it to be a place
   - This section much like the previous contains recipes for main dishes that I personally like.
   - This section will be updated in the future with new and exciting recipes.
 
-![Mains Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/mains.png)
+![Mains Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/main1page.png)
+![Mains Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/main2page.png)
+![Mains Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/main3page.png)
 
 - **Desserts Section**
 
