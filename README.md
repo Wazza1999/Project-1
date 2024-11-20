@@ -11,6 +11,10 @@ I've only added a few of my favourite recipes so far but I want it to be a place
 
 ## Features
 
+Here is the basic wireframe design for my website which is styled differently depending on the content involved but I wanted somethign basic just to have as reference
+
+![Wireframes](https://github.com/Wazza1999/Project-1/blob/main/assets/media/wireframe.JPG)
+
 ### Existing Features
 
 - **Header**
