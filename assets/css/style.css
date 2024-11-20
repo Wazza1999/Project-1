@@ -136,6 +136,7 @@ main {
   border: 1px solid black;
   border-radius: 5px 5px 0;
 }
+
 /* Main content for Arancini page design.*/
 #arancini1 {
   background-color: white;
@@ -255,6 +256,7 @@ footer li {
     object-fit: contain;
     width: 100%;
   }
+
   /* Media query for index.html*/
   #arancini.card {
     object-fit: contain;
@@ -271,6 +273,7 @@ footer li {
     object-fit: contain;
     width: 70%;
   }
+
   /* Media query for arancini.html*/
   #arancini1.card {
     object-fit: contain;
