@@ -123,8 +123,6 @@ main {
   margin: 10px;
   border: 1px solid black;
   border-radius: 5px 5px 0;
-  position: relative;
-  left: 45%;
 }
 
 #cake {
@@ -137,9 +135,16 @@ main {
   border-radius: 5px 5px 0;
 }
 
+/*Removes bullet points for all lists*/
+ul{
+  list-style-type: none;
+  text-align: center;
+}
+
 /* Main content for Arancini page design.*/
 #arancini1 {
   background-color: white;
+  text-align: center;
   padding: 10px 0;
   margin: 10px;
   border: 1px solid black;
@@ -148,16 +153,16 @@ main {
 
 #arancini2 {
   background-color: white;
+  text-align: center;
   padding: 10px 0;
   margin: 10px;
   border: 1px solid black;
   border-radius: 5px 5px 0;
-  position: relative;
-  left: 45%;
 }
 
 #instructions {
   background-color: white;
+  text-align: center;
   padding: 10px 0;
   margin: 10px;
   border: 1px solid black;
@@ -168,6 +173,7 @@ main {
 
 #spaghetti1 {
   background-color: white;
+  text-align: center;
   padding: 10px 0;
   margin: 10px;
   border: 1px solid black;
@@ -176,17 +182,18 @@ main {
 
 #spaghetti2 {
   background-color: white;
+  text-align: center;
   padding: 10px 0;
   margin: 10px;
   border: 1px solid black;
   border-radius: 5px 5px 0;
-  float: right;
 }
 
 /*Main content for the cake page design.*/
 
 #cake1 {
   background-color: white;
+  text-align: center;
   padding: 10px 0;
   margin: 10px;
   border: 1px solid black;
@@ -195,36 +202,34 @@ main {
 
 #cake2 {
   background-color: white;
+  text-align: center;
   padding: 10px 0;
   margin: 10px;
   border: 1px solid black;
   border-radius: 5px 5px 0;
-  position: relative;
-  left: 25%;
 }
 
 #cake3 {
   background-color: white;
+  text-align: center;
   padding: 10px 0;
   margin: 10px;
   border: 1px solid black;
   border-radius: 5px 5px 0;
-  position: relative;
-  left: 25%;
 }
 
 #cake4 {
   background-color: white;
+  text-align: center;
   padding: 10px 0;
   margin: 10px;
   border: 1px solid black;
   border-radius: 5px 5px 0;
-  position: relative;
-  left: 25%;
 }
 
 #cake5 {
   background-color: white;
+  text-align: center;
   padding: 10px 0;
   margin: 10px;
   border: 1px solid black;
@@ -250,107 +255,125 @@ footer li {
   text-align: center;
 }
 
-/*Media queries for phone*/
+/*Media queries for mobile*/
 @media screen and (min-width: 320px) {
   img {
     object-fit: contain;
     width: 100%;
   }
 
-  /* Media query for index.html*/
+  /* Media query for mobile index.html*/
   #arancini.card {
     object-fit: contain;
     width: 70%;
+    padding: 2rem;
   }
 
   #spaghetti.card {
     object-fit: contain;
     width: 70%;
     position: sticky;
+    padding: 2rem;
   }
 
   #cake.card {
     object-fit: contain;
     width: 70%;
+    padding: 2rem;
   }
 
-  /* Media query for arancini.html*/
+  /* Media query for mobile arancini.html*/
   #arancini1.card {
     object-fit: contain;
     width: 70%;
+    padding: 2rem;
+    text-align: center;
   }
 
   #arancini2.card {
     object-fit: contain;
     width: 70%;
     position: sticky;
-  }
-
-  #arancini3 {
-    object-fit: contain;
-    width: 70%;
+    padding: 2rem;
+    text-align: center;
   }
 
   #instructions.card {
     object-fit: contain;
     width: 70%;
+    padding: 2rem;
+    text-align: center;
   }
 
-  /*Media query for spaghetti.html*/
+  /*Media query for mobile spaghetti.html*/
 
   #spaghetti1 {
     object-fit: contain;
     width: 70%;
+    padding: 2rem;
+    text-align: center;
   }
 
   #spaghetti2 {
     object-fit: contain;
     width: 70%;
+    padding: 2rem;
+    text-align: center;
   }
 
-  /*Media query for spaghetti.html*/
+  /*Media query for mobile cake.html*/
 
   #cake1 {
     object-fit: contain;
     width: 60%;
+    padding: 3rem;
+    text-align: center;
   }
+}
 
-  #cake2 {
-    object-fit: contain;
-    width: 60%;
-  }
+#cake2 {
+  object-fit: contain;
+  width: 60%;
+  padding: 3rem;
+  text-align: center;
+}
 
-  #cake3 {
-    object-fit: contain;
-    width: 60%;
-  }
+#cake3 {
+  object-fit: contain;
+  width: 60%;
+  padding: 3rem;
+  text-align: center;
+}
 
-  #cake4 {
-    object-fit: contain;
-    width: 60%;
-  }
+#cake4 {
+  object-fit: contain;
+  width: 60%;
+  padding: 3rem;
+  text-align: center;
+}
 
-  #cake5 {
-    object-fit: contain;
-    width: 60%;
-  }
+#cake5 {
+  object-fit: contain;
+  width: 60%;
+  padding: 3rem;
+  text-align: center;
+}
 
-  /*Media query for Nav bar.*/
-  nav {
-    background-color: black;
-    border: 4mm ridge white;
-    margin: 0;
-  }
+/*Media query for Nav bar.*/
+nav {
+  background-color: black;
+  border: 4mm ridge white;
+  margin: 0;
+}
 
-  nav a {
-    text-decoration: none;
-    color: white;
-    padding: 10px;
-  }
+nav a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
 
-  .active {
-    background-color: green;
-  }
+.active {
+  background-color: green;
 }
 
 /*Media queries for tablet and Desktop*/
