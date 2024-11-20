@@ -138,7 +138,7 @@ main {
 /*Removes bullet points for all lists*/
 ul{
   list-style-type: none;
-  text-align: center;
+  padding: 1.8rem;
 }
 
 /* Main content for Arancini page design.*/
@@ -260,6 +260,10 @@ footer li {
   img {
     object-fit: contain;
     width: 100%;
+  }
+
+  li{
+
   }
 
   /* Media query for mobile index.html*/
