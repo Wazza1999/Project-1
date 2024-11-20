@@ -4,11 +4,17 @@ Warren's Recipes is a website I've created as a place for people who are looking
 
 I've only added a few of my favourite recipes so far but I want it to be a place where I as both a chef and a website designer can record my progress and development and perhaps help other people develop their culinary skills and techniques.
 
-![Responsive Mockup](https://github.com/Wazza1999/Project-1/blob/main/assets/media/mockup.png)
+![Responsive Mockup](https://github.com/Wazza1999/Project-1/blob/main/assets/media/index-mockup.JPG)
+![Responsive Mockup](https://github.com/Wazza1999/Project-1/blob/main/assets/media/arancini-mockup.JPG)
+![Responsive Mockup](https://github.com/Wazza1999/Project-1/blob/main/assets/media/spagbol-mockup.JPG)
+![Responsive Mockup](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cake-mockup.JPG)
 
 ## Features
 
 ### Existing Features
+
+- **Header**
+-Featured on all three pages is a simple header that is clear and easy to read and states exactly what I want to portray the website as; simple.
 
 - **Navigation Bar**
 
