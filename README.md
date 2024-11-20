@@ -37,7 +37,9 @@ I've only added a few of my favourite recipes so far but I want it to be a place
   - The starters section is a place where I will add recipes for starter dishes to share with whoever visits the site.
     This section will be updated in the future with new and exciting recipes.
 
-![Starters Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/starters.png)
+![Starters Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/arancini1page.JPG)
+![Starters Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/arancini2page.JPG)
+![Starters Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/arancini3page.JPG)
 
 - **Mains section**
 
