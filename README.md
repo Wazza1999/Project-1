@@ -60,7 +60,7 @@ Here is the basic wireframe design for my website which is styled differently de
 - This section will be updated in the future wiht new and exciting recipes.
 
   ![Desserts Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cake1page.JPG)
-  ![Desserts Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cake2page.JPG)
+  ![Desserts Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cakepage.JPG)
   ![Desserts Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cake3page.JPG)
 
 - **The Footer**
