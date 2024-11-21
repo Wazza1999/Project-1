@@ -50,9 +50,9 @@ Here is the basic wireframe design for my website which is styled differently de
   - This section much like the previous contains recipes for main dishes that I personally like.
   - This section will be updated in the future with new and exciting recipes.
 
-![Mains Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/main1page.JPG)
-![Mains Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/main2page.JPG)
-![Mains Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/main3page.JPG)
+![Mains Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/spagbol1page.JPG)
+![Mains Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/spagbol2page.JPG)
+![Mains Page](https://github.com/Wazza1999/Project-1/blob/main/assets/media/spagbol3page.JPG)
 
 - **Desserts Section**
 
