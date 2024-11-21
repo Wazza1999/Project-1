@@ -18,7 +18,7 @@ Here is the basic wireframe design for my website which is styled differently de
 ### Existing Features
 
 - **Header**
--Featured on all three pages is a simple header that is clear and easy to read and states exactly what I want to portray the website as; simple.
+  -Featured on all three pages is a simple header that is clear and easy to read and states exactly what I want to portray the website as; simple.
 
 ![Header](https://github.com/Wazza1999/Project-1/blob/main/assets/media/header.JPG)
 
@@ -78,12 +78,10 @@ Here is the basic wireframe design for my website which is styled differently de
   ![Accessibility](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cake-accessibility.JPG)
 
   - I've also put the website through a colour blindness checker to show that people with colour blindness can also use it
-  [Colour Blindness - Protanopia](https://www.toptal.com/designers/colorfilter?orig_uri=https://wazza1999.github.io/Project-1/index.html&process_type=protan)
-  [Colour Blindness - Deuteranopia](https://www.toptal.com/designers/colorfilter?orig_uri=https://wazza1999.github.io/Project-1/index.html&process_type=deutan)
-  [Colour Blindness - Tritanopia](https://www.toptal.com/designers/colorfilter?orig_uri=https://wazza1999.github.io/Project-1/index.html&process_type=tritan)
-  [Colour Blindness](https://www.toptal.com/designers/colorfilter?orig_uri=https://wazza1999.github.io/Project-1/index.html&process_type=grey)
-
-
+    [Colour Blindness - Protanopia](https://www.toptal.com/designers/colorfilter?orig_uri=https://wazza1999.github.io/Project-1/index.html&process_type=protan)
+    [Colour Blindness - Deuteranopia](https://www.toptal.com/designers/colorfilter?orig_uri=https://wazza1999.github.io/Project-1/index.html&process_type=deutan)
+    [Colour Blindness - Tritanopia](https://www.toptal.com/designers/colorfilter?orig_uri=https://wazza1999.github.io/Project-1/index.html&process_type=tritan)
+    [Colour Blindness](https://www.toptal.com/designers/colorfilter?orig_uri=https://wazza1999.github.io/Project-1/index.html&process_type=grey)
 
 ### Features Left to Implement
 
@@ -94,17 +92,17 @@ Here is the basic wireframe design for my website which is styled differently de
 ### Validator Testing
 
 - HTML
-  - No errors were returned when passing through the official 
-  ![W3C validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/index-htmlcheck.JPG)
-  ![W3C validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/arancini-htmlcheck.JPG)
-  ![W3C validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/spagbol-htmlcheck.JPG)
-  ![W3C validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cake-htmlcheck.JPG)
+  - No errors were returned when passing through the official
+    ![W3C validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/index-htmlcheck.JPG)
+    ![W3C validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/arancini-htmlcheck.JPG)
+    ![W3C validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/spagbol-htmlcheck.JPG)
+    ![W3C validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cake-htmlcheck.JPG)
 - CSS
   - No errors were found when passing through the official
-  ![(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/index-csscheck.JPG)
-  ![(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/arancini-csscheck.JPG)
-  ![(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/spagbol-csscheck.JPG)
-  ![(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cake-csscheck.JPG)
+    ![(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/index-csscheck.JPG)
+    ![(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/arancini-csscheck.JPG)
+    ![(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/spagbol-csscheck.JPG)
+    ![(Jigsaw) validator](https://github.com/Wazza1999/Project-1/blob/main/assets/media/cake-csscheck.JPG)
 
 ## Deployment
 
@@ -123,5 +121,7 @@ The live link can be found here - https://wazza1999.github.io/Project-1/
 - The footer links lead to Facebook, Youtube, Instagram and Linkedin
 
 ### Media
- -The images used in every page was taken from [unsplash](https://unsplash.com/)
+
+-The images used in every page was taken from [unsplash](https://unsplash.com/)
+
 - The Icons used in the footer were taken from https://fontawesome.com/
